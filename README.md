@@ -1,7 +1,7 @@
 # Frontend Mentor - Product preview card component
 
 
-## Welcome! 👋
+## Hola! 👋
 
 Thanks for checking out this front-end coding challenge.
 
